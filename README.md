@@ -1,5 +1,5 @@
-<div align="center", font-size=18px><b> Hi, Look! 🐼 🇨🇳 </b></div>
-
+<div align="center", font-size="18px" ><b> Hi, Look! 🐼 🇨🇳 </b></div>
+<br>
 <!--
 **I** am a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
