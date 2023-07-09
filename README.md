@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### <font color="blue">TODAY: **💀** </font>
+### TODAY: **💀** 
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=weston6&hide_title=true&hide_border=false&show_icons=true&line_height=21&text_color=000&theme=shadow_green" /> </div>
 
