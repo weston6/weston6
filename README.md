@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![image](https://github.com/weston6/weston6/assets/46282365/27425810-71c6-4249-b9c3-30c9fa396b52)
 
 
 **I** am a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
