@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 <br>
 
+![image](https://github.com/weston6/weston6/assets/46282365/799c69cd-43f7-4628-80f4-14d4633b8df9)
+
 -  👹 Hello, ✨ friends ✨ of github. I'm from the beautiful land of **pandas 🐼** and I love holding **pandas 🐼** as well as drinking tea 💯.
 
 <br>
