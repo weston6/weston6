@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <br>
 
-Hello, ✨ friends ✨ of github. I'm from the beautiful land of **pandas**, and I love holding **pandas** as well as drinking tea.
+<font size="5">Hello, ✨ friends ✨ of github. I'm from the beautiful land of **pandas**, and I love holding **pandas** as well as drinking tea.</font>
 
 <br>
 
