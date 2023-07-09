@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-# <div align="center"><font size="6"> Hi, 😄 !  </font></div>
+# <div align="center"> char title[] = "Hi, 😄 !"; </div>
 
 <br>
 
