@@ -1,4 +1,4 @@
-<div align="center", font size:"28px" ><b> Hi, Look! 🐼 🇨🇳 </b></div>
+<div align="center"><font size:"28px" ><b> Hi, Look! 🐼 🇨🇳 </b></font></div>
 <br>
 <!--
 **I** am a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
