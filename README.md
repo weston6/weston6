@@ -1,4 +1,4 @@
-### Hi, Look! 🐼 🇨🇳
+<div align="center">**Hi, Look!** 🐼 🇨🇳</div>
 
 <!--
 **I** am a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
