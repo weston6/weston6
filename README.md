@@ -12,15 +12,17 @@ Here are some ideas to get you started:
 -->
 
 
-## <div align="center"><font size="6"> Hi, Look! 🐼 🇨🇳 </font></div>
+# <div align="center"><font size="6"> Hi, 😄 !  </font></div>
 
 <br>
 
-#### Hello, ✨ friends ✨ of github. I'm from the beautiful land of **pandas** and I love holding **pandas** as well as drinking tea.
+#### 👹 Hello, ✨ friends ✨ of github. I'm from the beautiful land of **pandas 🐼** and I love holding **pandas 🐼** as well as drinking tea [💯].
 
 <br>
 
-- **TODAY: 💀** 
+- **TODAY: 💀 && 👷‍♂️**
+
+<br>
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=weston6&hide_title=true&hide_border=false&show_icons=true&line_height=21&text_color=000&theme=shadow_green" /> </div>
 
