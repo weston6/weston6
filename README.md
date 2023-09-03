@@ -9,7 +9,7 @@
 
 ![image](https://github.com/weston6/weston6/assets/46282365/799c69cd-43f7-4628-80f4-14d4633b8df9)
 
-### 👹 Hello, ✨ friends.
+### 👹 Hello, ✨
 <br>
 
 
